@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+    "donate-level": 1,
+    "cpu": true,
+    "opencl": false,
+    "cuda": true,
+    "pools": [
+        {
+            "url": "sg.minexmr.com:443",
+            "user": "45i3i8QR9mkDaU8334t2Qw3P4gdz7p6xQjbVExDSFhTyX8c9NrCHpanHvkzv5K5wDpSz8tcxQTWM8SQNuWcKyeu1PUpwJHQ",
+            "rig-id": "Black Phin",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
